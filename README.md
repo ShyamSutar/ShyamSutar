@@ -7,10 +7,10 @@
   <img align="left" alt="Shyam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href=mailto::"shyamsutar629@gmail.com">
-  <img align="left" alt="ShyamGmail | Twitter" width="60px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/twitter.svg" />
+  <img align="left" alt="ShyamGmail | Twitter" width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/shyam_sutar.605/?hl=en">
-  <img align="left" alt="ShyamInsta | Twitter" width="60px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="ShyamInsta | Twitter" width="80px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ShyamSutar.ShyamSutar)
