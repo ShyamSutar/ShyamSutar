@@ -1,7 +1,7 @@
 ### Hey there I am Shyam Sutar
 
 <a href="https://twitter.com/ShyamSutar7">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="ShyamSutar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shyam-sutar-36743919b/">
   <img align="left" alt="Shyam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -11,9 +11,9 @@
 
 <br />
 
-Hi, I'm Shyam Sutar, a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Shyam Sutar, Any software project must have a technical leader, who is responsible for all technical decisions made by the team and have enough authority to make them. Responsibility and authority are two mandatory components that must be present in order to make it possible to call such a person an architect.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
