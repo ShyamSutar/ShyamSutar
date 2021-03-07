@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/shyam-sutar-36743919b/">
   <img align="left" alt="Shyam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="shyamsutar629@gmail.com">
+  <img align="left" alt="ShyamGmail | Twitter" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngimg.com%2Fimage%2F25899&psig=AOvVaw0LgIlJrwHZ3GA2Sr2NF-YU&ust=1615204293261000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCID4moSPnu8CFQAAAAAdAAAAABAD" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ShyamSutar.ShyamSutar)
 
