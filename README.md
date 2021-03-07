@@ -6,9 +6,7 @@
 <a href="https://www.linkedin.com/in/shyam-sutar-36743919b/">
   <img align="left" alt="Shyam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="shyamsutar629@gmail.com">
-  <img align="left" alt="ShyamGmail | Twitter" width="22px" src="" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ShyamSutar.ShyamSutar)
 
