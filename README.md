@@ -59,6 +59,8 @@ I learned a lot from the open-source community and I love how collaboration and 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamSutar&hide=TeX&layout=compact)
