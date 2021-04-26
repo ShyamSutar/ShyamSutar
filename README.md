@@ -72,3 +72,5 @@ I learned a lot from the open-source community and I love how collaboration and 
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShyamSutar&show_icons=true&theme=gotham" alt="ShyamSutar&" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=abhijeetk698&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
