@@ -63,13 +63,12 @@ I learned a lot from the open-source community and I love how collaboration and 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamSutar&hide=TeX&layout=compact)
-<!--END_SECTION:waka-->
+
+
+
 
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShyamSutar&show_icons=true&theme=gotham" alt="ShyamSutar&" />
+
   
