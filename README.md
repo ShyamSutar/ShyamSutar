@@ -27,12 +27,12 @@ I learned a lot from the open-source community and I love how collaboration and 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@ShyamSutar](https://www.linkedin.com/in/shyam-sutar-36743919b/);
-- 📝 [Resume](#)
+<!-- - 📫 How to reach me: [@ShyamSutar](https://www.linkedin.com/in/shyam-sutar-36743919b/); -->
+<!-- - 📝 [Resume](#) -->
 
-**Languages and Tools:**  
+<!-- **Languages and Tools:**   -->
 
-<svg id="flutter" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#3FB6D3" d="M 12.3 64.2 76.3 0 115.7 0 32.1 83.6z"/><path fill="#3FB6D3" d="M 76.3 128 115.7 128 81.6 93.9 115.7 59.1 76.3 59.1 42.2 93.5z"/></svg>
+<!-- <svg id="flutter" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#3FB6D3" d="M 12.3 64.2 76.3 0 115.7 0 32.1 83.6z"/><path fill="#3FB6D3" d="M 76.3 128 115.7 128 81.6 93.9 115.7 59.1 76.3 59.1 42.2 93.5z"/></svg>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -69,6 +69,6 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 
 📈 My GitHub Stats
-
+ -->
 
   
