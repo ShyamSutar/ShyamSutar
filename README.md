@@ -1,4 +1,4 @@
-// ![](https://github.com/ShyamSutar/ShyamSutar/blob/main/SS.gif)
+/*![](https://github.com/ShyamSutar/ShyamSutar/blob/main/SS.gif)*/
 ![](https://github.com/ShyamSutar/ShyamSutar/blob/main/SecondSS.png)
 
 
