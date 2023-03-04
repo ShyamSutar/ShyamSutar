@@ -1,4 +1,4 @@
-![](SS.gif)
+![]([SS.gif](https://github.com/ShyamSutar/ShyamSutar/blob/main/SS.gif))
 
 ### Hey there I am Shyam Sutar
 
