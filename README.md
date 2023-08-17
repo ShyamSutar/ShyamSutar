@@ -1,5 +1,5 @@
 
-![](https://github.com/ShyamSutar/ShyamSutar/blob/main/SecondSS.png)
+![](/SecondSS.png)
 
 
 ### Hey there I am Shyam Sutar
